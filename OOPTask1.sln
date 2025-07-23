@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTask", "OOPTask\OOPTask.csproj", "{AC92B21C-9FC1-4CC3-A577-13C37F3D8EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{50186864-EA75-4817-B944-49410DA6AFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC92B21C-9FC1-4CC3-A577-13C37F3D8EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC92B21C-9FC1-4CC3-A577-13C37F3D8EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC92B21C-9FC1-4CC3-A577-13C37F3D8EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC92B21C-9FC1-4CC3-A577-13C37F3D8EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50186864-EA75-4817-B944-49410DA6AFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50186864-EA75-4817-B944-49410DA6AFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50186864-EA75-4817-B944-49410DA6AFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50186864-EA75-4817-B944-49410DA6AFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3DCED2-5947-4030-B8D1-2C546D62242D}
+	EndGlobalSection
+EndGlobal
